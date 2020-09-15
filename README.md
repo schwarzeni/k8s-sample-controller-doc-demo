@@ -315,4 +315,3 @@ func main() {
 执行 `kubectl apply -f foo-example.yaml` ，发现程序输出了 “New Foo Added: example-foo”
 
 执行 `kubectl delete -f foo-example.yaml` ，发现程序输出了 “Delete Foo : example-foo”
-
